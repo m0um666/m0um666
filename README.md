@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<b>Full Stack Developer • Cybersecurity Enthusiast • DevOps Learner</b>
+<b>Full Stack Developer • Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">

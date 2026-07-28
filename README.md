@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<b>Full Stack Developer • Web Security Learner • DevOps Enthusiast</b>
+<b>Full Stack Developer • Mobile Developer • Secure Web Development • Exploring Cybersecurity & DevOps</b>
 </p>
 
 <p align="center">

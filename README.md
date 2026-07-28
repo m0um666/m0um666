@@ -2,15 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=300&section=header&text=Mouma&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Bonjour, je suis Mouma</h1>
+<h1 align="center">👋 Bonjour, moi c'est Mouma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Web+%26+Mobile+Developer;Building+Projects+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Security+Learner;DevOps+Enthusiast;Building+Projects+Everyday"/>
 </p>
 
 <p align="center">
-<b>Full Stack Developer • Cybersecurity Enthusiast • DevOps Learner</b>
+<b>Full Stack Developer | Web Security Learner | DevOps Enthusiast</b>
 </p>
+
 
 <p align="center">
 
@@ -18,9 +19,10 @@
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
@@ -30,30 +32,31 @@
 
 Je suis un développeur Full Stack issu d'une **Formation Développeur Web & Web Mobile** ainsi que du **Apple Foundation Program**.
 
-Passionné par le développement web, la cybersécurité et les nouvelles technologies, je crée des projets personnels afin de renforcer mes compétences et construire des solutions modernes.
+Passionné par le développement logiciel, la cybersécurité et les nouvelles technologies, je construis des projets personnels afin d'améliorer mes compétences et créer des solutions modernes.
 
-J'aime apprendre, expérimenter et comprendre le fonctionnement des systèmes afin de développer des applications performantes et sécurisées.
+J'aime comprendre le fonctionnement des applications, améliorer leur sécurité et découvrir de nouvelles technologies.
 
-🎯 **Objectif :**
+🎯 **Objectif actuel :**
 
-Intégrer une équipe en alternance afin de participer à des projets professionnels, progresser auprès de développeurs expérimentés et continuer mon évolution technique.
+Rejoindre une équipe en alternance afin de participer à des projets professionnels, apprendre auprès de développeurs expérimentés et continuer mon évolution technique.
+
 
 ---
 
 # 🎓 Formation
 
-## 💻 Formation Développeur Web & Web Mobile
+## 💻 Développeur Web & Web Mobile
 
-Formation orientée vers la création d'applications web modernes.
+Formation spécialisée dans la création d'applications web modernes.
 
 Compétences développées :
 
 - 🌐 Développement Frontend
 - ⚙️ Développement Backend
 - 🗄️ Gestion des bases de données
-- 🔧 Utilisation de Git et GitHub
-- 📱 Conception d'applications web adaptées aux mobiles
-- 🏗️ Organisation et gestion de projets
+- 🔧 Utilisation professionnelle de Git
+- 📱 Adaptation mobile et responsive design
+- 🏗️ Organisation de projets
 
 
 Technologies étudiées :
@@ -62,39 +65,46 @@ Technologies étudiées :
 HTML • CSS • JavaScript • PHP • MySQL • Git
 ```
 
+
 ---
 
 ## 🍎 Apple Foundation Program
 
-Programme autour de l'écosystème Apple et de la création de solutions numériques.
+Programme orienté innovation numérique et conception d'applications.
 
 Compétences développées :
 
 - 📱 Découverte du développement mobile
 - 🎨 UX/UI Design
-- 💡 Conception d'applications
+- 💡 Conception d'idées et prototypes
 - 🤝 Travail en équipe
-- 🚀 Innovation numérique
+- 🚀 Méthodologie projet
+
 
 ---
 
-# 🚀 Actuellement
+# 🚀 Ce que je construis actuellement
 
-- 🔭 Développement de projets Full Stack
-- 🛡️ Apprentissage cybersécurité avec TryHackMe et Root-Me
-- 🐳 Découverte Docker et pratiques DevOps
+- 🔭 Applications Full Stack
+- 🔐 Projets orientés sécurité
 - ⚙️ Automatisation avec GitHub Actions
-- 📚 Approfondissement Backend et architecture logicielle
+- 🐳 Découverte Docker & DevOps
+- 🛡️ Entraînement cybersécurité
+
 
 ---
 
-# 🛠️ Compétences
+# 🧠 Compétences techniques
 
-## Frontend
+
+## 🌐 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
+
+
+Compétences :
 
 - HTML5
 - CSS3
@@ -103,78 +113,129 @@ Compétences développées :
 - Manipulation du DOM
 
 
-## Backend
+---
+
+## ⚙️ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,nodejs,python"/>
 </p>
 
+
+Compétences :
+
 - PHP
 - Node.js
 - Python
 - Logique serveur
-- API
+- Création de fonctionnalités backend
 
 
-## Base de données
+---
+
+## 🗄️ Base de données
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
+
+Compétences :
+
 - MySQL
 - JSON
-- Gestion de données
+- Gestion et organisation des données
 
 
-## DevOps & Outils
+---
+
+## 🐳 DevOps & Outils
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
+
+
+Compétences :
 
 - Git
 - GitHub
 - GitHub Actions
 - Docker
 - Linux
-- Visual Studio Code
+- VS Code
 
-
-## Cybersécurité
-
-Domaines étudiés :
-
-- 🔐 Sécurité Web
-- 🔎 Reconnaissance
-- 🧩 CTF
-- 🛡️ Vulnérabilités applicatives
-- 🐧 Linux
 
 ---
 
-# 📂 Projets Notables
+# 🔧 Méthodes de travail
+
+- 📌 Gestion de versions avec Git
+- 🔄 Workflow GitHub
+- 📝 Documentation technique
+- ⚙️ Automatisation CI/CD
+- 🧪 Tests et vérifications
+- 🐳 Environnements Docker
+
+
+---
+
+# 🛡️ Cybersécurité
+
+Je développe mes compétences en cybersécurité à travers des plateformes pratiques comme TryHackMe et Root-Me.
+
+
+Domaines explorés :
+
+- 🌐 Sécurité Web
+- 🔎 Reconnaissance
+- 🐧 Linux
+- 🧩 Capture The Flag
+- 🔐 Analyse de vulnérabilités
+- 🛠️ Bonnes pratiques de développement sécurisé
+
+
+Plateformes :
+
+<p align="center">
+
+<a href="https://tryhackme.com/p/n3gr1t0">
+<img src="https://img.shields.io/badge/TryHackMe-n3gr1t0-red?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="https://www.root-me.org/negrit0?lang=fr">
+<img src="https://img.shields.io/badge/Root--Me-negrit0-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+
+---
+
+# 📂 Projets
 
 
 ## 💼 Business Card Generator
 
-Générateur de cartes de visite personnalisées avec aperçu en temps réel et export PDF.
+Application web permettant de créer des cartes de visite personnalisées avec aperçu instantané.
 
-### Fonctionnalités :
+Fonctionnalités :
 
-- Création de cartes personnalisées
-- Aperçu instantané
-- Export au format PDF
+- Création de cartes
+- Aperçu en temps réel
+- Export PDF
 
 
-**Technologies :**
+Technologies :
 
 ```
 HTML • CSS • JavaScript
 ```
 
+
 🌐 Démo :
 https://m0um666.github.io/business_card_generator/
+
 
 💻 GitHub :
 https://github.com/m0um666/business_card_generator
@@ -184,20 +245,22 @@ https://github.com/m0um666/business_card_generator
 
 ## 🔒 Password Tool
 
-Outil Python permettant de générer des mots de passe sécurisés et vérifier leur exposition grâce à l'API Have I Been Pwned.
+Outil Python permettant de générer et analyser des mots de passe sécurisés.
 
-### Fonctionnalités :
 
-- 🔐 Génération de mots de passe robustes
+Fonctionnalités :
+
+- 🔐 Génération robuste
 - 📊 Analyse de sécurité
-- 🌐 Vérification de compromission
+- 🌐 Vérification avec Have I Been Pwned
 
 
-**Technologie :**
+Technologie :
 
 ```
 Python
 ```
+
 
 💻 GitHub :
 https://github.com/m0um666/password_tool
@@ -207,24 +270,23 @@ https://github.com/m0um666/password_tool
 
 ## 🤖 Mon Premier GitHub Action
 
-Premier projet autour de la CI/CD avec GitHub Actions.
-
-Le workflow automatise les vérifications lors des modifications du code.
+Projet d'apprentissage CI/CD avec automatisation GitHub.
 
 
-### Compétences :
+Fonctionnalités :
 
-- ⚙️ GitHub Actions
-- 📄 YAML
-- 🔄 CI/CD
+- ⚙️ Workflow automatique
+- 📄 Configuration YAML
+- 🔄 Vérification après chaque modification
 - 🧪 Automatisation des tests
 
 
-**Technologies :**
+Technologies :
 
 ```
 GitHub Actions • YAML
 ```
+
 
 💻 GitHub :
 https://github.com/m0um666/mon-premier-github-action
@@ -234,21 +296,23 @@ https://github.com/m0um666/mon-premier-github-action
 
 ## 💰 Gestionnaire de dépenses
 
-Application permettant de gérer ses dépenses personnelles.
+Application permettant de gérer des dépenses personnelles.
 
-### Fonctionnalités :
+
+Fonctionnalités :
 
 - ➕ Ajouter une dépense
 - 🗑️ Supprimer une dépense
-- 📊 Calcul automatique du total
-- 💾 Sauvegarde des données JSON
+- 📊 Calcul du total
+- 💾 Sauvegarde des données
 
 
-**Technologies :**
+Technologies :
 
 ```
 PHP • JavaScript • JSON
 ```
+
 
 💻 GitHub :
 https://github.com/m0um666/gestionnaire-depenses
@@ -258,53 +322,29 @@ https://github.com/m0um666/gestionnaire-depenses
 
 ## ✨ Générateur de citations
 
-Application JavaScript permettant de générer des citations aléatoires.
+Application JavaScript générant des citations aléatoires.
 
 
-### Fonctionnalités :
+Fonctionnalités :
 
-- 🎲 Génération aléatoire
+- 🎲 Génération dynamique
 - ⚡ Interaction utilisateur
 - 🖥️ Manipulation du DOM
 
 
-**Technologies :**
+Technologies :
 
 ```
 HTML • CSS • JavaScript
 ```
 
----
-
-# 🛡️ Challenges Cybersécurité
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TryHackMe-20%2B%20Badges-red?style=for-the-badge&logo=tryhackme"/>
-
-<img src="https://img.shields.io/badge/Root--Me-13%20Challenges-black?style=for-the-badge"/>
-
-</p>
-
-
-Plateformes :
-
-- TryHackMe
-- Root-Me
-
-
-Domaines :
-
-- Web Security
-- Linux
-- Réseaux
-- CTF
 
 ---
 
 # 📚 Roadmap
 
-## ✅ Compétences acquises
+
+## ✅ Acquis
 
 ✔ HTML / CSS  
 ✔ JavaScript  
@@ -315,7 +355,7 @@ Domaines :
 ✔ GitHub Actions  
 
 
-## 🔄 En apprentissage
+## 🔄 En progression
 
 🚀 Docker  
 🚀 Docker Compose  
@@ -326,23 +366,37 @@ Domaines :
 
 ## 🎯 Objectifs
 
-- Créer des applications Full Stack complètes
+- Développer des applications Full Stack complètes
+- Créer des APIs professionnelles
 - Approfondir DevOps
-- Développer mes compétences cybersécurité
-- Participer à des projets professionnels
+- Renforcer mes compétences cybersécurité
+
 
 ---
 
-# 📊 Statistiques GitHub
+# 📊 GitHub Statistics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0um666&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=m0um666&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+
 ---
 
 # 📫 Contact
+
 
 <p align="center">
 
@@ -354,9 +408,11 @@ Domaines :
 
 </p>
 
+
 ---
 
 # 👀 Visiteurs
+
 
 <p align="center">
 

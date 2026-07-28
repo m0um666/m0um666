@@ -137,6 +137,62 @@ https://github.com/m0um666/discord-token-login
 
 ---
 
+### 🤖 Mon Premier GitHub Action
+
+📄 Projet d'apprentissage autour de l'automatisation avec **GitHub Actions**.
+
+Le workflow vérifie automatiquement le projet à chaque modification envoyée sur GitHub.
+
+**Fonctionnalités :**
+
+- ⚙️ Automatisation des tests avec GitHub Actions
+- ✅ Vérification automatique après chaque `push`
+- 📄 Création d'un workflow YAML
+- 🚨 Gestion des erreurs et des échecs de tests
+
+**Technologies :**
+
+GitHub Actions • YAML • CI/CD
+
+💻 **GitHub :**  
+https://github.com/m0um666/mon-premier-github-action
+
+---
+
+### 💰 Gestionnaire de dépenses
+
+📄 Application permettant de gérer ses dépenses quotidiennes avec sauvegarde des données.
+
+**Fonctionnalités :**
+
+- ➕ Ajout de dépenses
+- 🗑️ Suppression de dépenses
+- 📊 Calcul automatique du total
+- 💾 Sauvegarde des données en JSON
+
+**Technologies :**
+
+PHP • JavaScript • JSON • HTML • CSS
+
+💻 **GitHub :**  
+https://github.com/m0um666/gestionnaire-depenses
+
+---
+
+### ✨ Générateur de citations
+
+📄 Application JavaScript permettant de générer des citations aléatoires.
+
+**Fonctionnalités :**
+
+- 🎲 Génération aléatoire de citations
+- 🖱️ Interaction avec l'utilisateur
+- ⚡ Manipulation du DOM
+
+**Technologies :**
+
+HTML • CSS • JavaScript
+
 ## 🚩 Challenges Cybersécurité
 
 <p align="center">

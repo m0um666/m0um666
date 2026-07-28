@@ -1,28 +1,26 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=300&section=header&text=Mouma&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:7C3AED&height=300&section=header&text=Mouma&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Bonjour, moi c'est Mouma</h1>
+<h1 align="center">👋 Bonjour, je suis Mouma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Security+Learner;DevOps+Enthusiast;Building+Projects+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Security+Learner;Building+Secure+Applications;Always+Learning"/>
 </p>
 
 <p align="center">
-<b>Full Stack Developer | Web Security Learner | DevOps Enthusiast</b>
+<b>Full Stack Developer • Web Security Learner • DevOps Enthusiast</b>
 </p>
-
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Disponible-Alternance-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge"/>
 
 </p>
-
 
 ---
 
@@ -32,14 +30,13 @@
 
 Je suis un développeur Full Stack issu d'une **Formation Développeur Web & Web Mobile** ainsi que du **Apple Foundation Program**.
 
-Passionné par le développement logiciel, la cybersécurité et les nouvelles technologies, je construis des projets personnels afin d'améliorer mes compétences et créer des solutions modernes.
+Passionné par le développement logiciel, la cybersécurité et les nouvelles technologies, je transforme mes apprentissages en projets concrets afin d'améliorer mes compétences techniques.
 
-J'aime comprendre le fonctionnement des applications, améliorer leur sécurité et découvrir de nouvelles technologies.
+J'aime comprendre le fonctionnement des applications, améliorer leur sécurité et construire des solutions modernes.
 
-🎯 **Objectif actuel :**
+🎯 **Objectif professionnel :**
 
-Rejoindre une équipe en alternance afin de participer à des projets professionnels, apprendre auprès de développeurs expérimentés et continuer mon évolution technique.
-
+Intégrer une équipe en alternance afin de participer à des projets réels, apprendre auprès de développeurs expérimentés et évoluer dans un environnement professionnel.
 
 ---
 
@@ -47,24 +44,22 @@ Rejoindre une équipe en alternance afin de participer à des projets profession
 
 ## 💻 Développeur Web & Web Mobile
 
-Formation spécialisée dans la création d'applications web modernes.
+Formation spécialisée dans la conception et le développement d'applications web modernes.
 
 Compétences développées :
 
 - 🌐 Développement Frontend
 - ⚙️ Développement Backend
 - 🗄️ Gestion des bases de données
-- 🔧 Utilisation professionnelle de Git
-- 📱 Adaptation mobile et responsive design
+- 🔧 Utilisation de Git et GitHub
+- 📱 Responsive Design
 - 🏗️ Organisation de projets
-
 
 Technologies étudiées :
 
 ```
 HTML • CSS • JavaScript • PHP • MySQL • Git
 ```
-
 
 ---
 
@@ -76,33 +71,31 @@ Compétences développées :
 
 - 📱 Découverte du développement mobile
 - 🎨 UX/UI Design
-- 💡 Conception d'idées et prototypes
+- 💡 Conception de solutions numériques
 - 🤝 Travail en équipe
 - 🚀 Méthodologie projet
 
-
 ---
 
-# 🚀 Ce que je construis actuellement
+# 🚀 Actuellement
 
-- 🔭 Applications Full Stack
-- 🔐 Projets orientés sécurité
+Je travaille principalement sur :
+
+- 🔭 Développement d'applications Full Stack
+- 🔐 Sécurité des applications Web
 - ⚙️ Automatisation avec GitHub Actions
-- 🐳 Découverte Docker & DevOps
-- 🛡️ Entraînement cybersécurité
-
+- 🐳 Découverte Docker et DevOps
+- 🛡️ Entraînement cybersécurité sur TryHackMe et Root-Me
 
 ---
 
 # 🧠 Compétences techniques
-
 
 ## 🌐 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
-
 
 Compétences :
 
@@ -111,7 +104,7 @@ Compétences :
 - JavaScript
 - Responsive Design
 - Manipulation du DOM
-
+- Création d'interfaces utilisateur
 
 ---
 
@@ -121,31 +114,29 @@ Compétences :
 <img src="https://skillicons.dev/icons?i=php,nodejs,python"/>
 </p>
 
-
 Compétences :
 
 - PHP
 - Node.js
 - Python
 - Logique serveur
-- Création de fonctionnalités backend
-
+- API
+- Traitement des données
 
 ---
 
-## 🗄️ Base de données
+## 🗄️ Bases de données
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-
 Compétences :
 
 - MySQL
 - JSON
-- Gestion et organisation des données
-
+- Organisation des données
+- Modélisation simple
 
 ---
 
@@ -155,7 +146,6 @@ Compétences :
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
 
-
 Compétences :
 
 - Git
@@ -163,39 +153,52 @@ Compétences :
 - GitHub Actions
 - Docker
 - Linux
-- VS Code
-
+- Visual Studio Code
+- CI/CD
 
 ---
 
-# 🔧 Méthodes de travail
+# 🏗️ Méthodes de développement
+
+J'applique progressivement des pratiques utilisées en entreprise :
 
 - 📌 Gestion de versions avec Git
-- 🔄 Workflow GitHub
+- 🌱 Organisation avec branches
 - 📝 Documentation technique
-- ⚙️ Automatisation CI/CD
-- 🧪 Tests et vérifications
-- 🐳 Environnements Docker
-
+- 🔄 Automatisation CI/CD
+- 🔐 Développement sécurisé
+- 🐳 Conteneurisation avec Docker
 
 ---
+# 🛡️ Cybersécurité & Ethical Hacking
 
-# 🛡️ Cybersécurité
+Je développe mes compétences en cybersécurité à travers des plateformes pratiques comme **TryHackMe** et **Root-Me**.
 
-Je développe mes compétences en cybersécurité à travers des plateformes pratiques comme TryHackMe et Root-Me.
+Mon objectif est de comprendre les vulnérabilités, apprendre les bonnes pratiques de sécurité et développer des applications plus robustes.
 
 
-Domaines explorés :
+## Domaines explorés :
 
-- 🌐 Sécurité Web
-- 🔎 Reconnaissance
+- 🌐 Sécurité des applications Web
+- 🔎 Reconnaissance et énumération
 - 🐧 Linux
-- 🧩 Capture The Flag
-- 🔐 Analyse de vulnérabilités
-- 🛠️ Bonnes pratiques de développement sécurisé
+- 🔐 Authentification et gestion des accès
+- 🧩 Capture The Flag (CTF)
+- 🛠️ Analyse de vulnérabilités
+- 🔒 Développement sécurisé
 
 
-Plateformes :
+## Outils utilisés :
+
+- Nmap
+- Burp Suite
+- Gobuster
+- Wireshark
+- Linux CLI
+- Scripts Python
+
+
+## Plateformes d'entraînement :
 
 <p align="center">
 
@@ -217,13 +220,25 @@ Plateformes :
 
 ## 💼 Business Card Generator
 
-Application web permettant de créer des cartes de visite personnalisées avec aperçu instantané.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Fonctionnalités :
 
-- Création de cartes
-- Aperçu en temps réel
-- Export PDF
+Application web permettant de créer des cartes de visite personnalisées avec aperçu instantané et export PDF.
+
+
+### Objectifs :
+
+- Créer une interface interactive
+- Manipuler le DOM avec JavaScript
+- Améliorer l'expérience utilisateur
+- Générer un document personnalisé
+
+
+### Fonctionnalités :
+
+- 🎨 Création de cartes personnalisées
+- 👀 Aperçu en temps réel
+- 📄 Export PDF
 
 
 Technologies :
@@ -245,14 +260,24 @@ https://github.com/m0um666/business_card_generator
 
 ## 🔒 Password Tool
 
-Outil Python permettant de générer et analyser des mots de passe sécurisés.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 
-Fonctionnalités :
+Outil Python permettant de générer des mots de passe sécurisés et vérifier leur exposition grâce à l'API **Have I Been Pwned**.
 
-- 🔐 Génération robuste
+
+### Objectifs :
+
+- Comprendre la sécurité des mots de passe
+- Utiliser une API externe
+- Automatiser des contrôles de sécurité
+
+
+### Fonctionnalités :
+
+- 🔐 Génération de mots de passe robustes
 - 📊 Analyse de sécurité
-- 🌐 Vérification avec Have I Been Pwned
+- 🌐 Vérification de compromission
 
 
 Technologie :
@@ -270,21 +295,31 @@ https://github.com/m0um666/password_tool
 
 ## 🤖 Mon Premier GitHub Action
 
-Projet d'apprentissage CI/CD avec automatisation GitHub.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 
-Fonctionnalités :
+Premier projet autour de la CI/CD et de l'automatisation avec GitHub Actions.
 
-- ⚙️ Workflow automatique
-- 📄 Configuration YAML
-- 🔄 Vérification après chaque modification
-- 🧪 Automatisation des tests
+
+### Objectifs :
+
+- Découvrir l'automatisation
+- Créer un workflow YAML
+- Comprendre le fonctionnement d'une pipeline CI/CD
+
+
+### Fonctionnalités :
+
+- ⚙️ Vérification automatique après chaque push
+- 📄 Workflow GitHub Actions
+- 🧪 Tests automatisés
+- 🚨 Gestion des erreurs
 
 
 Technologies :
 
 ```
-GitHub Actions • YAML
+GitHub Actions • YAML • CI/CD
 ```
 
 
@@ -296,14 +331,24 @@ https://github.com/m0um666/mon-premier-github-action
 
 ## 💰 Gestionnaire de dépenses
 
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+
 Application permettant de gérer des dépenses personnelles.
 
 
-Fonctionnalités :
+### Objectifs :
+
+- Créer une logique backend
+- Manipuler des données utilisateur
+- Structurer une application web
+
+
+### Fonctionnalités :
 
 - ➕ Ajouter une dépense
 - 🗑️ Supprimer une dépense
-- 📊 Calcul du total
+- 📊 Calcul automatique du total
 - 💾 Sauvegarde des données
 
 
@@ -322,13 +367,23 @@ https://github.com/m0um666/gestionnaire-depenses
 
 ## ✨ Générateur de citations
 
-Application JavaScript générant des citations aléatoires.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 
-Fonctionnalités :
+Application JavaScript permettant de générer des citations aléatoires.
 
-- 🎲 Génération dynamique
-- ⚡ Interaction utilisateur
+
+### Objectifs :
+
+- Manipuler JavaScript côté client
+- Travailler avec le DOM
+- Créer une interaction utilisateur
+
+
+### Fonctionnalités :
+
+- 🎲 Génération aléatoire de citations
+- ⚡ Interaction dynamique
 - 🖥️ Manipulation du DOM
 
 
@@ -340,11 +395,12 @@ HTML • CSS • JavaScript
 
 
 ---
+---
 
 # 📚 Roadmap
 
 
-## ✅ Acquis
+## ✅ Compétences acquises
 
 ✔ HTML / CSS  
 ✔ JavaScript  
@@ -353,7 +409,11 @@ HTML • CSS • JavaScript
 ✔ MySQL  
 ✔ Git / GitHub  
 ✔ GitHub Actions  
+✔ Responsive Design  
+✔ Manipulation du DOM  
 
+
+---
 
 ## 🔄 En progression
 
@@ -362,26 +422,57 @@ HTML • CSS • JavaScript
 🚀 API REST  
 🚀 Sécurité Web avancée  
 🚀 Architecture Backend  
-
-
-## 🎯 Objectifs
-
-- Développer des applications Full Stack complètes
-- Créer des APIs professionnelles
-- Approfondir DevOps
-- Renforcer mes compétences cybersécurité
+🚀 Déploiement d'applications  
 
 
 ---
 
-# 📊 GitHub Statistics
+## 🎯 Objectifs futurs
+
+- Construire des applications Full Stack complètes
+- Créer des APIs professionnelles
+- Approfondir mes compétences DevOps
+- Renforcer mes connaissances en cybersécurité
+- Participer à des projets collaboratifs
+
+
+---
+
+# 💡 Ma philosophie de développement
+
+
+Je cherche constamment à améliorer ma façon de développer en suivant plusieurs principes :
+
+
+### 🔐 Sécurité
+
+Créer des applications pensées avec de bonnes pratiques de sécurité.
+
+
+### 🧩 Qualité
+
+Produire un code :
+
+- Lisible
+- Organisé
+- Maintenable
+
+
+### 🚀 Progression
+
+Chaque projet est une opportunité d'apprendre une nouvelle technologie et d'améliorer mes compétences.
+
+
+---
+
+# 📊 Statistiques GitHub
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0um666&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0um666&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </p>
 
@@ -391,6 +482,25 @@ HTML • CSS • JavaScript
 <img src="https://streak-stats.demolab.com?user=m0um666&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+
+---
+
+# 🚀 Objectifs professionnels
+
+
+À court terme :
+
+- 💼 Trouver une alternance dans le développement
+- 🏗️ Participer à des projets professionnels
+- 📚 Continuer mon apprentissage
+
+
+À moyen terme :
+
+- ⚙️ Maîtriser les architectures Full Stack
+- 🐳 Approfondir DevOps
+- 🔐 Développer une expertise en sécurité applicative
 
 
 ---
@@ -421,6 +531,10 @@ HTML • CSS • JavaScript
 </p>
 
 
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:7C3AED&height=120&section=footer"/>
+
 </p>

@@ -1,24 +1,20 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=250&section=header&text=Mouma&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=280&section=header&text=Mouma&fontSize=80&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Bienvenue sur mon GitHub</h1>
+<h1 align="center">
+👋 Salut, moi c'est Mouma
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Projects+Everyday;Learning+DevOps+%26+Cloud"/>
-</p>
-
-<p align="center">
-<b>Full Stack Developer • Cybersecurity Enthusiast • DevOps Learner</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Disponible-Alternance-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge&logo=code"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge&logo=hackthebox"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
 
 </p>
 
@@ -28,56 +24,50 @@
 
 📍 **Marseille, France**
 
-Je suis un développeur Full Stack passionné par la création d'applications web, l'automatisation et la cybersécurité.
+Je suis un développeur Full Stack passionné par la création d'applications modernes, l'automatisation et la cybersécurité.
 
-Mon objectif est de concevoir des projets propres, sécurisés et utiles tout en améliorant constamment mes compétences techniques.
+J'aime transformer des idées en projets concrets afin d'améliorer mes compétences en développement, architecture logicielle et sécurité informatique.
 
-🎯 Actuellement à la recherche d'une **alternance ou opportunité professionnelle en développement informatique**.
+🎯 Objectif actuel :
 
-Mes centres d'intérêt :
-
-- 🚀 Développement Full Stack
-- 🛡️ Cybersécurité
-- ⚙️ Automatisation & DevOps
-- 🐧 Linux
-- 📚 Apprentissage continu
+> Rejoindre une équipe en alternance ou en stage afin de participer à des projets réels et continuer à progresser auprès de développeurs expérimentés.
 
 ---
 
-# 🚀 Ce que je fais actuellement
+# 🚀 Ce que je construis actuellement
 
-- 🔭 Développement de projets personnels Full Stack
-- 🐳 Apprentissage Docker et Docker Compose
-- 🛡️ Entraînement cybersécurité sur TryHackMe et Root-Me
-- ⚙️ Découverte des pratiques DevOps et CI/CD
-- 🏗️ Amélioration de mes architectures backend
+- 🌐 Applications web Full Stack
+- 🔐 Projets orientés sécurité
+- ⚙️ Automatisation avec GitHub Actions
+- 🐳 Découverte DevOps avec Docker
+- 🧪 Projets personnels pour expérimenter de nouvelles technologies
 
 ---
 
-# 🛠️ Stack Technique
+# 🧰 Technologies & outils
 
-## 💻 Langages
+## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-## 🗄️ Bases de données
+## Backend
 
 <p>
+<img src="https://skillicons.dev/icons?i=php,nodejs,python"/>
+</p>
 
+## Base de données
+
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
-## ⚙️ DevOps & Outils
+## DevOps & Environnement
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
-
 </p>
 
 ---
@@ -86,78 +76,83 @@ Mes centres d'intérêt :
 
 ## 💼 Business Card Generator
 
-Générateur de cartes de visite personnalisées avec aperçu en temps réel et export PDF.
+Application web permettant de créer des cartes de visite personnalisées avec aperçu instantané et export PDF.
 
-### Technologies :
+**Fonctionnalités :**
+
+- Création de cartes personnalisées
+- Aperçu en temps réel
+- Génération PDF
+
+**Stack :**
 
 `HTML` `CSS` `JavaScript`
 
 🌐 Démo :
 https://m0um666.github.io/business_card_generator/
 
-💻 Code :
+💻 Repository :
 https://github.com/m0um666/business_card_generator
-
 
 ---
 
 ## 🔒 Password Tool
 
-Outil Python permettant de générer des mots de passe sécurisés et d'analyser leur sécurité avec l'API **Have I Been Pwned**.
+Outil Python dédié à la génération et l'analyse de mots de passe.
 
-### Fonctionnalités :
+**Fonctionnalités :**
 
-- 🔐 Génération de mots de passe robustes
-- 📊 Analyse de sécurité
-- 🌐 Vérification des fuites connues
+- Génération de mots de passe sécurisés
+- Analyse de robustesse
+- Vérification avec l'API Have I Been Pwned
 
-### Technologie :
+**Stack :**
 
 `Python`
 
-💻 Code :
+💻 Repository :
 https://github.com/m0um666/password_tool
-
 
 ---
 
 ## 🤖 Mon Premier GitHub Action
 
-Premier projet autour de la CI/CD avec GitHub Actions.
+Premier projet CI/CD utilisant GitHub Actions.
 
-Le workflow automatise les vérifications du projet à chaque modification.
+Le projet automatise les vérifications lors des modifications du code.
 
-### Compétences :
+**Apprentissages :**
 
-- ⚙️ GitHub Actions
-- 📄 YAML
-- 🔄 CI/CD
-- 🧪 Tests automatiques
+- Création de workflows YAML
+- Automatisation des tests
+- Gestion des erreurs CI/CD
 
-💻 Code :
+**Stack :**
+
+`GitHub Actions` `YAML`
+
+💻 Repository :
 https://github.com/m0um666/mon-premier-github-action
-
 
 ---
 
 ## 💰 Gestionnaire de dépenses
 
-Application PHP permettant de gérer ses dépenses personnelles.
+Application backend permettant de gérer des dépenses personnelles.
 
-### Fonctionnalités :
+**Fonctionnalités :**
 
-- ➕ Ajouter une dépense
-- 🗑️ Supprimer une dépense
-- 📊 Calcul automatique du total
-- 💾 Sauvegarde JSON
+- Ajout de dépenses
+- Suppression
+- Calcul automatique du total
+- Stockage JSON
 
-### Technologies :
+**Stack :**
 
 `PHP` `JavaScript` `JSON`
 
-💻 Code :
+💻 Repository :
 https://github.com/m0um666/gestionnaire-depenses
-
 
 ---
 
@@ -165,19 +160,21 @@ https://github.com/m0um666/gestionnaire-depenses
 
 Application JavaScript générant des citations aléatoires.
 
-### Fonctionnalités :
+**Fonctionnalités :**
 
-- 🎲 Génération aléatoire
-- ⚡ Manipulation du DOM
-- 🖱️ Interaction utilisateur
+- Génération aléatoire
+- Interaction utilisateur
+- Manipulation du DOM
 
-### Technologies :
+**Stack :**
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
 # 🛡️ Cybersécurité
+
+Je développe mes compétences en sécurité informatique à travers des plateformes d'entraînement.
 
 <p align="center">
 
@@ -193,42 +190,50 @@ Application JavaScript générant des citations aléatoires.
 
 Domaines explorés :
 
-- 🔎 Reconnaissance
-- 🌐 Sécurité web
-- 🔐 Vulnérabilités applicatives
-- 🧩 CTF
+- Web Security
+- Reconnaissance
+- Vulnérabilités applicatives
+- CTF
 
 ---
 
 # 📚 Roadmap
 
-## Actuellement :
+## ✅ Déjà acquis
 
-✅ PHP  
-✅ JavaScript  
-✅ Git/GitHub  
-✅ GitHub Actions  
-✅ Linux  
+- HTML / CSS
+- JavaScript
+- PHP
+- Python
+- Git & GitHub
+- GitHub Actions
 
-## En apprentissage :
+## 🔄 En cours
 
-🔄 Docker  
-🔄 MySQL avancé  
-🔄 Sécurité Web  
-🔄 Architecture backend  
-🔄 Cloud & DevOps
+- Docker
+- Docker Compose
+- MySQL avancé
+- Sécurité Web
+- Architecture backend
+
+## 🎯 Objectifs
+
+- Développer des applications Full Stack complètes
+- Approfondir la cybersécurité
+- Découvrir le Cloud et DevOps
 
 ---
 
-# 📊 Statistiques GitHub
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0um666&layout=compact&theme=tokyonight"/>
 
 </p>
+
 
 <p align="center">
 
@@ -255,11 +260,12 @@ Domaines explorés :
 # 👀 Visiteurs
 
 <p align="center">
+
 <img src="https://profile-counter.deno.dev/m0um666/count.svg"/>
+
 </p>
 
----
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=120&section=footer"/>
 </p>

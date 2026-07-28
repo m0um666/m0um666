@@ -1,13 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=250&section=header&text=Mouma&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=250&section=header&text=Mouma&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">👋 Bienvenue sur mon GitHub</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Projects+Everyday;Learning+DevOps+%26+Cloud"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Développeur+Full+Stack;Passionné+de+Cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis"/>
-</p>
-
-<p align="center">
-<b>Full Stack Developer • Cybersecurity Enthusiast</b>
+<b>Full Stack Developer • Cybersecurity Enthusiast • DevOps Learner</b>
 </p>
 
 <p align="center">
@@ -22,178 +24,160 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+# 👨‍💻 À propos de moi
 
 📍 **Marseille, France**
 
-Je suis un développeur Full Stack passionné par la création d'applications web modernes, la cybersécurité et les nouvelles technologies.
+Je suis un développeur Full Stack passionné par la création d'applications web, l'automatisation et la cybersécurité.
 
-🎯 Actuellement à la recherche d'une alternance ou d'un poste de développeur.
+Mon objectif est de concevoir des projets propres, sécurisés et utiles tout en améliorant constamment mes compétences techniques.
 
-🛡️ J'aime apprendre, expérimenter et construire des projets qui me permettent d'améliorer mes compétences en développement et en sécurité informatique.
+🎯 Actuellement à la recherche d'une **alternance ou opportunité professionnelle en développement informatique**.
+
+Mes centres d'intérêt :
+
+- 🚀 Développement Full Stack
+- 🛡️ Cybersécurité
+- ⚙️ Automatisation & DevOps
+- 🐧 Linux
+- 📚 Apprentissage continu
 
 ---
 
-## 🚀 Actuellement
+# 🚀 Ce que je fais actuellement
 
-- 🔭 Développement de projets Full Stack
-- 📚 Apprentissage de Docker, Docker Compose et des pratiques DevOps
+- 🔭 Développement de projets personnels Full Stack
+- 🐳 Apprentissage Docker et Docker Compose
 - 🛡️ Entraînement cybersécurité sur TryHackMe et Root-Me
-- 🏗️ Approfondissement backend et architecture logicielle
+- ⚙️ Découverte des pratiques DevOps et CI/CD
+- 🏗️ Amélioration de mes architectures backend
 
 ---
 
-## 🏆 Compétences
+# 🛠️ Stack Technique
 
-### Frontend
-HTML • CSS • JavaScript
+## 💻 Langages
 
-### Backend
-Python • PHP • Node.js
+<p>
 
-### Base de données
-MySQL
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs"/>
 
-### DevOps
-Docker • Linux
+</p>
 
-### Outils
-Git • Visual Studio Code
+## 🗄️ Bases de données
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,mysql,docker,linux,git,vscode"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+## ⚙️ DevOps & Outils
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 📞 Contact
+# 📂 Projets principaux
 
-<p align="center">
-<a href="mailto:m0um4@proton.me">
-<img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail"/>
-</a>
-</p>
+## 💼 Business Card Generator
 
----
+Générateur de cartes de visite personnalisées avec aperçu en temps réel et export PDF.
 
-## ⚙️ Statistiques GitHub
+### Technologies :
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight&include_all_commits=true&locale=fr"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0um666&layout=compact&langs_count=8&theme=tokyonight&locale=fr"/>
-</p>
+`HTML` `CSS` `JavaScript`
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=m0um666&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
-## 📂 Projets Notables
-
-### 💼 Business Card Generator
-
-📄 Générateur de cartes de visite personnalisées avec aperçu en temps réel et export au format PDF.
-
-**Technologies :**
-HTML • CSS • JavaScript
-
-🌐 **Démo :**  
+🌐 Démo :
 https://m0um666.github.io/business_card_generator/
 
-💻 **GitHub :**  
+💻 Code :
 https://github.com/m0um666/business_card_generator
 
+
 ---
 
-### 🔒 Password Tool
+## 🔒 Password Tool
 
-📄 Outil permettant de générer des mots de passe robustes et de vérifier s'ils ont été compromis grâce à l'API **Have I Been Pwned**.
+Outil Python permettant de générer des mots de passe sécurisés et d'analyser leur sécurité avec l'API **Have I Been Pwned**.
 
-**Fonctionnalités :**
+### Fonctionnalités :
 
-- 🔐 Génération de mots de passe sécurisés
-- 📊 Analyse de robustesse
-- 🌐 Vérification des mots de passe compromis
+- 🔐 Génération de mots de passe robustes
+- 📊 Analyse de sécurité
+- 🌐 Vérification des fuites connues
 
-**Technologies :**
-Python
+### Technologie :
 
-💻 **GitHub :**  
+`Python`
+
+💻 Code :
 https://github.com/m0um666/password_tool
 
----
-
-### 🔑 Discord Token Login
-
-📄 Projet expérimental réalisé dans un objectif d'apprentissage autour de l'automatisation avec JavaScript.
-
-**Technologies :**
-JavaScript
-
-💻 **GitHub :**  
-https://github.com/m0um666/discord-token-login
 
 ---
 
-### 🤖 Mon Premier GitHub Action
+## 🤖 Mon Premier GitHub Action
 
-📄 Projet d'apprentissage autour de l'automatisation avec **GitHub Actions**.
+Premier projet autour de la CI/CD avec GitHub Actions.
 
-Le workflow vérifie automatiquement le projet à chaque modification envoyée sur GitHub.
+Le workflow automatise les vérifications du projet à chaque modification.
 
-**Fonctionnalités :**
+### Compétences :
 
-- ⚙️ Automatisation des tests avec GitHub Actions
-- ✅ Vérification automatique après chaque `push`
-- 📄 Création d'un workflow YAML
-- 🚨 Gestion des erreurs et des échecs de tests
+- ⚙️ GitHub Actions
+- 📄 YAML
+- 🔄 CI/CD
+- 🧪 Tests automatiques
 
-**Technologies :**
-
-GitHub Actions • YAML • CI/CD
-
-💻 **GitHub :**  
+💻 Code :
 https://github.com/m0um666/mon-premier-github-action
 
+
 ---
 
-### 💰 Gestionnaire de dépenses
+## 💰 Gestionnaire de dépenses
 
-📄 Application permettant de gérer ses dépenses quotidiennes avec sauvegarde des données.
+Application PHP permettant de gérer ses dépenses personnelles.
 
-**Fonctionnalités :**
+### Fonctionnalités :
 
-- ➕ Ajout de dépenses
-- 🗑️ Suppression de dépenses
+- ➕ Ajouter une dépense
+- 🗑️ Supprimer une dépense
 - 📊 Calcul automatique du total
-- 💾 Sauvegarde des données en JSON
+- 💾 Sauvegarde JSON
 
-**Technologies :**
+### Technologies :
 
-PHP • JavaScript • JSON • HTML • CSS
+`PHP` `JavaScript` `JSON`
 
-💻 **GitHub :**  
+💻 Code :
 https://github.com/m0um666/gestionnaire-depenses
 
+
 ---
 
-### ✨ Générateur de citations
+## ✨ Générateur de citations
 
-📄 Application JavaScript permettant de générer des citations aléatoires.
+Application JavaScript générant des citations aléatoires.
 
-**Fonctionnalités :**
+### Fonctionnalités :
 
-- 🎲 Génération aléatoire de citations
-- 🖱️ Interaction avec l'utilisateur
+- 🎲 Génération aléatoire
 - ⚡ Manipulation du DOM
+- 🖱️ Interaction utilisateur
 
-**Technologies :**
+### Technologies :
 
-HTML • CSS • JavaScript
+`HTML` `CSS` `JavaScript`
 
-## 🚩 Challenges Cybersécurité
+---
+
+# 🛡️ Cybersécurité
 
 <p align="center">
 
@@ -207,9 +191,68 @@ HTML • CSS • JavaScript
 
 </p>
 
+Domaines explorés :
+
+- 🔎 Reconnaissance
+- 🌐 Sécurité web
+- 🔐 Vulnérabilités applicatives
+- 🧩 CTF
+
 ---
 
-## 👀 Visiteurs
+# 📚 Roadmap
+
+## Actuellement :
+
+✅ PHP  
+✅ JavaScript  
+✅ Git/GitHub  
+✅ GitHub Actions  
+✅ Linux  
+
+## En apprentissage :
+
+🔄 Docker  
+🔄 MySQL avancé  
+🔄 Sécurité Web  
+🔄 Architecture backend  
+🔄 Cloud & DevOps
+
+---
+
+# 📊 Statistiques GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0um666&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=m0um666&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:m0um4@proton.me">
+
+<img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail"/>
+
+</a>
+
+</p>
+
+---
+
+# 👀 Visiteurs
 
 <p align="center">
 <img src="https://profile-counter.deno.dev/m0um666/count.svg"/>

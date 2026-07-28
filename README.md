@@ -466,17 +466,6 @@ Chaque projet est une opportunité d'apprendre une nouvelle technologie et d'am�
 ---
 
 # 📊 Statistiques GitHub
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0um666&layout=compact&theme=tokyonight&langs_count=8"/>
-
-</p>
-
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=m0um666&theme=tokyonight&hide_border=true"/>

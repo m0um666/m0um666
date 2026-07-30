@@ -462,19 +462,6 @@ Produire un code :
 
 Chaque projet est une opportunité d'apprendre une nouvelle technologie et d'améliorer mes compétences.
 
-
----
-
-# 📊 Statistiques GitHub
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=m0um666&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
 # 🚀 Objectifs professionnels
 
 
@@ -506,21 +493,6 @@ Chaque projet est une opportunité d'apprendre une nouvelle technologie et d'am�
 </a>
 
 </p>
-
-
----
-
-# 👀 Visiteurs
-
-
-<p align="center">
-
-<img src="https://profile-counter.deno.dev/m0um666/count.svg"/>
-
-</p>
-
-
----
 
 <p align="center">
 

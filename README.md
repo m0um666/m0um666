@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<b>Full Stack Developer • Développement sécurisé • DevOps • Cybersécurité</b>
+<b>Full Stack Developer • Développement sécurisé • Cybersécurité</b>
 
 </p>
 

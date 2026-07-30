@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<b>Full Stack Developer • Développement sécurisé • Cybersécurité</b>
+<br>Full Stack Developer • Développement sécurisé • Cybersécurité</br>
 
 </p>
 

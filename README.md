@@ -8,23 +8,17 @@
 
 <h1 align="center">👋 Bonjour, je suis Mouma</h1>
 
-
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Secure+Web+Developer;Cybersecurity+Learner;Always+Learning"/>
-
-</p>
-
-
-
 <p align="center">
 
 <b>Full Stack Developer • Développement sécurisé • Cybersécurité</b>
 
 </p>
 
+<p align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Secure+Web+Developer;Cybersecurity+Learner;Always+Learning"/>
+
+</p>
 
 <p align="center">
 
